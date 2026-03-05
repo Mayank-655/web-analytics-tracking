@@ -1,0 +1,4 @@
+# Place Kaggle eCommerce Events CSVs here:
+# 2019-Oct.csv, 2019-Nov.csv, 2019-Dec.csv, 2020-Jan.csv, 2020-Feb.csv
+# (Same dataset as cohort segmentation — copy from there or re-download from Kaggle.)
+# Dataset files are in .gitignore (not pushed to GitHub).
